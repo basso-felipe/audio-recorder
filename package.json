@@ -1,5 +1,5 @@
 {
-  "name": "audio-recorder",
+  "name": "@basso.felipe/audio-recorder",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
