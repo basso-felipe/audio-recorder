@@ -1,6 +1,5 @@
 node_modules
 dist
-sample
 
 src/recorder/*
-!src/recorder/*.ts
+!src/recorder/index.ts
