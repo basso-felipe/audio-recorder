@@ -1,3 +1,7 @@
 sample
 
 !src/recorder/index.ts
+
+.prettierrc
+.editorconfig
+tsconfig.json
