@@ -1,4 +1,4 @@
-import { AudioRecorder } from "../recorder/index.js";
+import { AudioRecorder } from "../index.js";
 
 const start = document.getElementById("start");
 const stop = document.getElementById("stop");
