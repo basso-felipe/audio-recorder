@@ -51,7 +51,6 @@ export class AudioRecorder {
         this.mediaRecorder.ondataavailable = (e) => chunks.push(e.data);
 
         this.mediaRecorder.onstop = () => {
-          console.log("ended!");
           mediaStream.getTracks().forEach((track) => track.stop());
 
           if (this._discardResult) return void 0;
