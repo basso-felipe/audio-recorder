@@ -1,6 +1,6 @@
 {
   "name": "@felipewb/audio-recorder",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
@@ -13,7 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/basso-felipe/audio-recorder.git"
   },
-  "keywords": [],
+  "keywords": [
+    "Audio Recorder",
+    "Audio Stream",
+    "Media Recorder",
+    "Media Stream",
+    "Browser Media Stream"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {

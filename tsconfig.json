@@ -6,7 +6,7 @@
     "incremental": true,
 
     /* Language and Environment */
-    "target": "es2022",
+    "target": "ES6",
     "lib": [
       "ES6",
       "DOM"
@@ -23,9 +23,7 @@
     /* Emit */
     "sourceMap": true,
     "outDir": "./dist",
-    "removeComments": true,
-    "noEmit": true,
-    "stripInternal": true,
+    "removeComments": false,
     "preserveConstEnums": true,
 
     /* Interop Constraints */
