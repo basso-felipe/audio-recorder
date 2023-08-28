@@ -6,8 +6,7 @@
   "types": "dist/index.d.js",
   "scripts": {
     "build": "tsc --declaration",
-    "dev": "nodemon --watch \"src//\" --exec \"ts-node src/sample.ts\" -e ts",
-    //"test": "nodemon --watch \"src//sample//\" --exec \"tsc -t es6 src/recorder/index.ts && npx http-server src --port 8080"
+    "dev": "nodemon --watch \"src//\" --exec \"ts-node src/sample.ts\" -e ts"
   },
   "repository": {
     "type": "git",
