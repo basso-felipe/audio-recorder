@@ -64,6 +64,7 @@ export class AudioRecorder {
    * Pay attention to:
    * - If the permission is denied, an error will be thrown.
    * - If a audio
+   * - Increased via GitHub Actions
    * @method start
    * @returns {Promise<void>}
    * @throws
